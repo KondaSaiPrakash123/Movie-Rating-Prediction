@@ -22,6 +22,5 @@ What's funny is that the popularity of the third most famous actor is more impor
 ## Third Part - Predict the IMDB score
 
 Machine Learning to predict the IMDB score with the meaningful variables.  
-Using a Random Forest algorithm. 
-![Most important features]
+Using a MachineLearning Algorithms.
 
