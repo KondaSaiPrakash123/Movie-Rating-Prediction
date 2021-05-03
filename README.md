@@ -1,4 +1,4 @@
-# Predict IMDB movie rating
+# Predicting Movie Rating
 
 How can we tell the greatness of a movie before it is released in cinema?
 
