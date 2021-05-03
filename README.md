@@ -11,7 +11,6 @@ To create the movie_contents.json file :
 ## Second Part - Data Analysis
 
 The second part is to analyze the dataframe and observe correlation between variables. For example, are the movie awards correlated to the worlwide gross ? Does the more a movie is a liked, the more the casting is liked ? 
-See the jupyter notebook file.  
 
 [Correlation Matrix]
  
